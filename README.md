@@ -2,7 +2,7 @@
 
 This is the source code on how to add fakerjs to your project and display data in cards.
 
-![Fakerjs Demo](demo/demo2.gif)
+![Fakerjs Demo](demo/demo.gif)
 
 ## How it works
 
